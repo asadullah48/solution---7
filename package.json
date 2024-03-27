@@ -1,0 +1,12 @@
+{
+  "name": "solution---7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "S7.TS.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0458550",
+  "license": "MIT"
+}
